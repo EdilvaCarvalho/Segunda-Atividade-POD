@@ -119,11 +119,7 @@ public class Main {
     }
 
     public static void main(String[] args) throws InterruptedException {
-
-        //System.out.println("Executing the 2 + 2 sum");
         executeOperacao1(3, 2);
-
-        //System.out.println("Executing the  5 - 3 subtraction");
         executeOperacao2(3, 2);
     }
 
